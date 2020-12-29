@@ -1,0 +1,10 @@
+Variable:
+Es un lugar o espacio donde guardamos datos, que luego vamos a utilizar.
+Strings
+es una cadena o hilo de caracteres (letras, numeros, &,/,#)
+Funciones:
+es una de las maneras en la que podemos utilizar las variables, para poder operar, comparar o transformarlas
+If:
+Es un controlador de flujo en donde si cumple cierta condicion,se ejecuta una linea de codigo y si no se cumple, excluye la linea de codigo y continua.
+Valores Boleanos:
+son valores que se basan en el codigo de 1 y 0 (binario) donde se interprta de diferentes maneras, como (apagado, encendido) o (True,False)
