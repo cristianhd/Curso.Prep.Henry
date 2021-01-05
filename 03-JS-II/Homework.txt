@@ -1,0 +1,4 @@
+For: es un bluque que evalua una expresion, si dicha expresion es true, se ejecuta el codigo; esto lo realiza varias veces hasta que la condicion es false.
+&&: Es un operar logico (AND), que su valor es true, cuando las dos expresiones son true
+||: Es un operar logico (OR) , que su valor es true, cuando cualquiera de sus expresiones es true
+!: Es un operador logico (NOT), niega la veracidad de cualquier expresión. 
