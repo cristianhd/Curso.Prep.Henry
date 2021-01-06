@@ -1,0 +1,17 @@
+Objetos: 
+Contenedor de propiedades y datos que definen el objeto
+
+Propiedades: 
+Son aquellas que definen a un objeto, son definidas por ares claves (Key:Value)
+
+Metodos: 
+Son funciones guardadas en un objeto
+
+Bucle for...in: 
+Es la manera de recorrer un objeto en Js
+
+Notacion de puntos: 
+Es la manera en la que llamamos al objeto por medio de la expresion objeto.key
+
+Notacon de corchetes: 
+Es la manera en la que llamamos al objeto por medio de la expresion objeto['Key']
