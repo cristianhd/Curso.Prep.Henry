@@ -1,0 +1,2 @@
+Prototype: Es la manera en que los desarrolladores ahoramos memoria del computador, pues es donde ponemos todos los metodos para que sean llamados por objetos que apunten a el.
+Consturctors: Son directamente la fabrica de objetos, es donde ponemos la syntaxis de toda la plantilla de los objetos que cramos apartir de ello.
